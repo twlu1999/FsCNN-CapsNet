@@ -2,10 +2,10 @@
 A new fuzzy set convolutional neural network capsule neural network (FsCNN CapsNet) model is proposed and applied to the analysis of the sentiment analysis.
 
 ## Training ##
-- /train.py
+`/train.py`
 
 ## Evaluating ##
-- ./eval.py --eval_train --checkpoint_dir="./runs/1721313757/checkpoints/"
+`./eval.py --eval_train --checkpoint_dir="./runs/1721313757/checkpoints/`
 
 ## Requirements ##
 - Python 3.6.13
